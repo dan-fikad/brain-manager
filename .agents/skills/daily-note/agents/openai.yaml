@@ -1,0 +1,7 @@
+interface:
+  display_name: "Daily Note"
+  short_description: "Obsidian 데일리 노트 초안 생성 자동화"
+  default_prompt: "Use $daily-note to create today's Korean Obsidian daily note from Linear, Jira, GitHub, and calendar context."
+
+policy:
+  allow_implicit_invocation: true
